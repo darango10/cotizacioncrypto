@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e84ea726-c381-4fc2-8062-2e357342df91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Formulario.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useMoneda.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -18,6 +20,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +50,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -68,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176863264</updated>
-      <workItem from="1588176865137" duration="1999000" />
+      <workItem from="1588176865137" duration="4999000" />
     </task>
     <servers />
   </component>
@@ -94,5 +103,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1588178741406" />
+    <state x="1311" y="78" key="SettingsEditor" timestamp="1588181513330">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1311" y="78" key="SettingsEditor/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1588181513330" />
   </component>
 </project>
